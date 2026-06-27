@@ -1,3 +1,3 @@
-# SAVITA-G-NEW
+cd # SAVITA-G-NEW
 THIS MY NEW REPO
-author savita ganagi
+author savita ganagi(new file)
